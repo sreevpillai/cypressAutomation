@@ -1,0 +1,20 @@
+[
+  {
+    "deploymentName": "Deployment A",
+    "email": "testemail1@domain.com",
+    "sensitiveData": "Yes",
+    "riskLevel": "Medium",
+    "securityMeasures": "Encryption and firewalls",
+    "encryption": "Yes",
+    "riskAssessment": "No",
+    "audit": "Yes"
+  },
+  {
+    "deploymentName": "Deployment B",
+    "email": "testemail2@domain.com",
+    "sensitiveData": "No",
+    "riskLevel": "Low",
+    "riskAssessment": "Yes",
+    "audit": "Yes"
+  }
+]

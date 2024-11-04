@@ -1,0 +1,14 @@
+[
+  {
+    "deploymentName": "Deployment A",
+    "email": "1@domain.com"
+  },
+  {
+    "deploymentName": "Deployment B",
+    "email": "invalidEmail"
+  },
+  {
+    "email": "2@domain.com"
+  }
+  
+]
